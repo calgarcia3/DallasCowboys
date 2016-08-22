@@ -1,0 +1,16 @@
+body {
+	background: white;
+	padding-left: 20%;
+	font-family: "Georgia";
+	font-size: 10;
+
+}
+footer {
+	border: dashed;
+	border-color: red;
+	margin: 5px 0px 0px 5px;
+	padding-top: 5px;
+}
+p (a href) {
+	font-color: navy;
+}
