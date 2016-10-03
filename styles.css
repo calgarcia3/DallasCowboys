@@ -1,7 +1,7 @@
 body {
-	background: white;
+	background: blue;
 	padding-left: 20%;
-	font-family: "Georgia";
+	font-family: "Times New Roman";
 	font-size: 10;
 
 }
@@ -12,5 +12,5 @@ footer {
 	padding-top: 5px;
 }
 p (a href) {
-	font-color: navy;
+	font-color: white;
 }
